@@ -1,5 +1,5 @@
 {
-  "name": "slugit",
+  "name": "slugdog",
   "version": "1.0.0",
   "description": "Create slugs from terminal",
   "main": "index.js",
@@ -7,11 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "slugit": "src/index.js"
+    "slugdog": "src/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dhairyathedev/slugit.git"
+    "url": "git+https://github.com/dhairyathedev/slugdog.git"
   },
   "keywords": [
     "terminal",
@@ -21,9 +21,9 @@
   "author": "dhairyashah24",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dhairyathedev/slugit/issues"
+    "url": "https://github.com/dhairyathedev/slugdog/issues"
   },
-  "homepage": "https://github.com/dhairyathedev/slugit#readme",
+  "homepage": "https://github.com/dhairyathedev/slugdog#readme",
   "dependencies": {
     "chalk": "^4.1.2"
   }

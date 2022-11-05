@@ -1,19 +1,19 @@
-## slugit
+## slugdog
 
-Welcome to **slugit**, create slugs directly from the terminal.
+Welcome to **slugdog**, create slugs directly from the terminal.
 
 ```
-npm i -g slugit
+npm i -g slugdog
 ```
 
 ### Running on terminal
 ```
-$ slugit
+$ slugdog
 ```
 <center>OR</center>
 
 ```
-$ npx slugit
+$ npx slugdog
 ```
 
 ### Support us:
